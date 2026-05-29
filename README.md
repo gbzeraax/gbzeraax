@@ -1,4 +1,12 @@
-## Im Gabriel Riqueza👋
+## Welcome! 👋
+
+Sou do Rio de Janeiro, tenho 19 anos e atualmente curso **Análise e Desenvolvimento de Sistemas (ADS)**.
+
+Estou iniciando minha trajetória na área da programação e descobrindo cada vez mais interesse pelo desenvolvimento Front-End.
+Há cerca de 1 ano e meio venho estudando tecnologia, desenvolvendo projetos e aprimorando minhas habilidades.
+Sou uma pessoa dedicada, gosto de aprender coisas novas e estou sempre buscando evoluir tanto pessoalmente quanto profissionalmente.
+Atualmente, procuro uma oportunidade de estágio para ganhar experiência prática e crescer na área de tecnologia.
+Se quiser trocar ideias, compartilhar conhecimentos ou acompanhar minha evolução, fique à vontade para entrar em contato 🚀
 
 
 <div> 
