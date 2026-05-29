@@ -51,19 +51,6 @@ I consider myself a dedicated person who is always looking to learn new things a
 
 <br>
 
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      width="100%"
-      src="https://github-profile-trophy.vercel.app/?username=gbzeraax&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15"
-      alt="GitHub Trophies"
-    />
-  </a>
-</p>
-
-<br>
 
 <h2 align="center">👀 Profile Views</h2>
 
