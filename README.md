@@ -19,7 +19,7 @@ Se quiser trocar ideias, compartilhar conhecimentos ou acompanhar minha evoluç�
   <img align="center" alt="Gabri-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-
+💬 Sinta-se a vontade para entrar em contator : ⤵️
 
 <div> 
   <a href="https://instagram.com/gabrielriqueza01" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
