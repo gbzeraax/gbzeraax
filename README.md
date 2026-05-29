@@ -67,9 +67,5 @@ I consider myself a dedicated person who is always looking to learn new things a
 </div>
 
 <p align="center">
-  <img
-    src="https://profile-counter.glitch.me/gbzeraax/count.svg"
-    alt="Profile Visitor Count"
-  />
+  <img src="https://komarev.com/ghpvc/?username=gbzeraax&label=Profile%20views&color=0e75b6&style=flat" alt="gbzeraax" />
 </p>
-```
