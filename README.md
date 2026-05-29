@@ -8,7 +8,8 @@ Sou uma pessoa dedicada, gosto de aprender coisas novas e estou sempre buscando 
 Atualmente, procuro uma oportunidade de estágio para ganhar experiência prática e crescer na área de tecnologia.
 Se quiser trocar ideias, compartilhar conhecimentos ou acompanhar minha evolução, fique à vontade para entrar em contato 🚀
 
-🤖## STACKS
+**🤖 STACKS**
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
