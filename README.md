@@ -1,32 +1,80 @@
-## Welcome! 👋
+## Hello World! My name is <strong>Gabriel Riqueza</strong> 👋
 
-Sou do Rio de Janeiro, tenho 19 anos e atualmente curso **Análise e Desenvolvimento de Sistemas (ADS)**.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer illustration" min-width="400px" max-width="400px" width="400px" align="right">
 
-Estou iniciando minha trajetória na área da programação e descobrindo cada vez mais interesse pelo desenvolvimento Front-End.
-Há cerca de 1 ano e meio venho estudando tecnologia, desenvolvendo projetos e aprimorando minhas habilidades.
-Sou uma pessoa dedicada, gosto de aprender coisas novas e estou sempre buscando evoluir tanto pessoalmente quanto profissionalmente.
-Atualmente, procuro uma oportunidade de estágio para ganhar experiência prática e crescer na área de tecnologia.
-Se quiser trocar ideias, compartilhar conhecimentos ou acompanhar minha evolução, fique à vontade para entrar em contato 🚀
+<p align="left">
+I'm 19 years old and currently studying <strong>Systems Analysis and Development (ADS)</strong>.
 
-**🤖 STACKS**
+I'm starting my journey in the programming world and discovering a strong passion for <strong>Front-End Development</strong>. Over the last year and a half, I've been studying technology, building projects, and improving my development skills every day.
 
+I consider myself a dedicated person who is always looking to learn new things and evolve professionally. Currently, I'm looking for an internship opportunity to gain practical experience and continue growing in the tech area 🚀
+</p>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gabri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gabri-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Gabri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gabri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gabri-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<h2 align="left">
+ 🦄 Technologies & Tools:
+</h2>
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
+[![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+
+<h2 align="left">
+ 📫 Contact:
+</h2>
+
+<p align="left">
+  <a href="mailto:gabrielriquezag@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/gabriel-riqueza-5683a4303/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://www.instagram.com/gabrielriqueza01/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=gbzeraax&theme=dark&hide_border=false"
+    alt="Github stats"
+  />
+</p>
+
+<br>
+
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="GitHub Profile Trophy"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=gbzeraax&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
+
+<div align="center">
+  <h3><b>Profile Visitor Count</b></h3>
 </div>
 
-
-
-💬 Sinta-se a vontade para entrar em contator : ⤵️
-
-<div> 
-  <a href="https://instagram.com/gabrielriqueza01" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
-  <a href = "mailto:gabrielriquezag@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-riqueza-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
-
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/gbzeraax/count.svg"
+    alt="Profile Visitor Count"
+  />
+</p>
+```
