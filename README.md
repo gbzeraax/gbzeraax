@@ -21,51 +21,56 @@ I consider myself a dedicated person who is always looking to learn new things a
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
-<h2 align="left">
- 📫 Contact:
-</h2>
+<h2 align="left">📫 Contact</h2>
 
 <p align="left">
-  <a href="mailto:gabrielriquezag@gmail.com">
+  <a href="mailto:gabrielriquezag@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/gabriel-riqueza-5683a4303/">
+  <a href="https://www.linkedin.com/in/gabriel-riqueza-5683a4303/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://www.instagram.com/gabrielriqueza01/">
+  <a href="https://www.instagram.com/gabrielriqueza01/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
 <br>
 
+<h2 align="center">⚡ GitHub Stats</h2>
+
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=gbzeraax&theme=dark&hide_border=false"
-    alt="Github stats"
+    height="170"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=gbzeraax&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
   />
 </p>
 
 <br>
 
+<h2 align="center">🏆 GitHub Trophies</h2>
+
 <p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="GitHub Profile Trophy"
-  >
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=gbzeraax&column=8&theme=darkhub&no-frame=true&no-bg=true"
+      width="100%"
+      src="https://github-profile-trophy.vercel.app/?username=gbzeraax&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15"
+      alt="GitHub Trophies"
     />
   </a>
 </p>
 
-<div align="center">
-  <h3><b>Profile Visitor Count</b></h3>
-</div>
+<br>
+
+<h2 align="center">👀 Profile Views</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gbzeraax&label=Profile%20views&color=0e75b6&style=flat" alt="gbzeraax" />
+  <img
+    src="https://komarev.com/ghpvc/?username=gbzeraax&label=Profile%20Views&color=0e75b6&style=for-the-badge"
+    alt="Profile views"
+  />
 </p>
+```
